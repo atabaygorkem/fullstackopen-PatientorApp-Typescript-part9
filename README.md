@@ -29,3 +29,10 @@ npm start
 ```
 
 Check [localhost:3000](http://localhost:3000/) to see **Patientor** app.
+
+---
+
+> ## University of Helsinki Certificate
+
+![UniversityOfHelsinkiCertificate](./certificate-typescript.png)
+Certificate link: https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/055617c2f48a2e5db54082d6b368a1ce
